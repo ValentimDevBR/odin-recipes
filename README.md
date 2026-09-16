@@ -1,4 +1,4 @@
-# Odin Recipes
+# Odin Projects
 
 This project is part of The Odin Project's Foundations course. It consists of a basic recipe website built to practice fundamental Web Development skills.
 
